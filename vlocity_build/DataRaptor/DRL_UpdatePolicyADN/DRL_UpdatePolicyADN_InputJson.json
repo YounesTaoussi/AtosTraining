@@ -1,0 +1,21 @@
+{
+    "ContextId": null,
+    "timeStamp": null,
+    "userId": null,
+    "userName": null,
+    "userProfile": null,
+    "userTimeZone": null,
+    "vlcPersistentComponent": {
+    },
+    "vlcTimeTracking": {
+        "DRE_ADNGetPolicyDetails": null,
+        "DRE_GetBroker": null,
+        "DRL_CreateADNBatchRecord": null,
+        "DRL_UpdateADNBatchRcord": null,
+        "DRL_UpdatePolicies": null,
+        "DRT_CreateContract": null,
+        "ResponseAction1": null,
+        "SV_EncodeXML": null,
+        "SV_SetInitialValues": null
+    }
+}

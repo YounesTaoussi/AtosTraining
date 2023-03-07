@@ -1,0 +1,8 @@
+Org: Arag-new-dev
+Version: 1.15.8
+PackageVersion: 890.336
+Namespace: vlocity_ins
+Job: vlocity-app/vlocityConfigData.yaml
+Action: Export
+ProjectPath: ./vlocity_build
+Errors: None

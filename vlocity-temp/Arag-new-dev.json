@@ -1,0 +1,11 @@
+{
+    "username": "younnes.taoussi@arag.nl.dev",
+    "id": "00D1x0000001HAXEA2",
+    "connectedStatus": "Connected",
+    "accessToken": "00D1x0000001HAX!AQgAQAP6o15C4OI4CsZv7vDCpTSp6BN4n.d04UDsH0RZ_cDYHerriMuUFj9VrREVSyuoGT1c5DRnsY2wAFLj14P37MNb_IOv",
+    "instanceUrl": "https://arag--dev.sandbox.my.salesforce.com",
+    "clientId": "PlatformCLI",
+    "sfdxAuthUrl": "force://PlatformCLI::5Aep861ZNCA9b_eTjxf71FQiWsinYgU8jr0jdOkgETIBesmubMHRHzS4ps9NmbT.neJN8e857J3Kk6JKfdZLboV@arag--dev.sandbox.my.salesforce.com",
+    "alias": "Arag-new-dev",
+    "vbtSfdxUsername": "Arag-new-dev"
+}

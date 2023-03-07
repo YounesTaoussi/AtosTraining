@@ -1,0 +1,4 @@
+projectPath: ./vlocity_build
+queries: 
+  - VlocityDataPackType: OmniScript 
+    query: select id, vlocity_ins__Type__c, vlocity_ins__SubType__c, vlocity_ins__Language__c from vlocity_ins__OmniScript__c where vlocity_ins__IsActive__c = true and vlocity_ins__IsProcedure__c = false and vlocity_ins__IsReusable__c = false and vlocity_ins__Type__c = 'InsPolicy' and vlocity_ins__SubType__c = 'SendViaADN'

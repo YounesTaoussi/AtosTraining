@@ -1,0 +1,27 @@
+{
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "InsPolicy_SendViaADN_English_Element_DRE_GetInsurancePolicy.json",
+        "InsPolicy_SendViaADN_English_Element_ST_Error.json",
+        "InsPolicy_SendViaADN_English_Element_TXB_Error.json",
+        "InsPolicy_SendViaADN_English_Element_ST_Confirm.json",
+        "InsPolicy_SendViaADN_English_Element_TXB_Confirm.json",
+        "InsPolicy_SendViaADN_English_Element_SV_SetInput.json",
+        "InsPolicy_SendViaADN_English_Element_DRL_UpdatePolicy.json",
+        "InsPolicy_SendViaADN_English_Element_NA_Policy.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__OmniProcessType__c": "OmniScript",
+    "%vlocity_namespace%__PropertySet__c": "InsPolicy_SendViaADN_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "SendViaADN",
+    "%vlocity_namespace%__Type__c": "InsPolicy",
+    "Name": "InsPolicy_SendViaADN",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/InsPolicy/SendViaADN/English"
+}
